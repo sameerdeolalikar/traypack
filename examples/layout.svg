@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="180mm" height="304mm" viewBox="0 0 180 304" font-family="sans-serif" role="img" aria-labelledby="title">
+<title id="title">Traypack component layout</title>
+<rect width="100%" height="100%" fill="white"/>
+<text x="10" y="13" font-size="5" font-weight="bold">TRAYPACK / COMPONENT LAYOUT</text>
+<text x="10" y="20" font-size="3">Shelf heuristic · millimetres · print at actual size · no optimality guarantee</text>
+<text x="10" y="31" font-size="3">Tray 1 · 160 × 110 mm · 6 items</text>
+<g transform="translate(10 34)"><rect width="160" height="110" fill="#faf7ef" stroke="#243744" stroke-width="0.4"/>
+<rect x="5" y="5" width="93" height="68" fill="#d3e4d8" stroke="#243744" stroke-width="0.3"><title>Card deck: 93 × 68 mm (rotated)</title></rect>
+<text x="51.5" y="40" font-size="3" text-anchor="middle">Card deck</text><rect x="101" y="5" width="42" height="30" fill="#d3e4d8" stroke="#243744" stroke-width="0.3"><title>Score tiles #1: 42 × 30 mm</title></rect>
+<text x="122" y="21" font-size="3" text-anchor="middle">Score tiles #1</text><rect x="5" y="76" width="35" height="25" fill="#d3e4d8" stroke="#243744" stroke-width="0.3"><title>Player tokens #1: 35 × 25 mm</title></rect>
+<text x="22.5" y="89.5" font-size="3" text-anchor="middle">Player tokens #1</text><rect x="43" y="76" width="35" height="25" fill="#d3e4d8" stroke="#243744" stroke-width="0.3"><title>Player tokens #2: 35 × 25 mm</title></rect>
+<text x="60.5" y="89.5" font-size="3" text-anchor="middle">Player tokens #2</text><rect x="81" y="76" width="35" height="25" fill="#d3e4d8" stroke="#243744" stroke-width="0.3"><title>Player tokens #3: 35 × 25 mm</title></rect>
+<text x="98.5" y="89.5" font-size="3" text-anchor="middle">Player tokens #3</text><rect x="119" y="76" width="35" height="25" fill="#d3e4d8" stroke="#243744" stroke-width="0.3"><title>Player tokens #4: 35 × 25 mm</title></rect>
+<text x="136.5" y="89.5" font-size="3" text-anchor="middle">Player tokens #4</text></g>
+<text x="10" y="165" font-size="3">Tray 2 · 160 × 110 mm · 7 items</text>
+<g transform="translate(10 168)"><rect width="160" height="110" fill="#faf7ef" stroke="#243744" stroke-width="0.4"/>
+<rect x="5" y="5" width="42" height="30" fill="#d3e4d8" stroke="#243744" stroke-width="0.3"><title>Score tiles #2: 42 × 30 mm</title></rect>
+<text x="26" y="21" font-size="3" text-anchor="middle">Score tiles #2</text><rect x="50" y="5" width="18" height="18" fill="#d3e4d8" stroke="#243744" stroke-width="0.3"><title>Dice #1: 18 × 18 mm</title></rect>
+<text x="59" y="15" font-size="3" text-anchor="middle">Dice #1</text><rect x="71" y="5" width="18" height="18" fill="#d3e4d8" stroke="#243744" stroke-width="0.3"><title>Dice #2: 18 × 18 mm</title></rect>
+<text x="80" y="15" font-size="3" text-anchor="middle">Dice #2</text><rect x="92" y="5" width="18" height="18" fill="#d3e4d8" stroke="#243744" stroke-width="0.3"><title>Dice #3: 18 × 18 mm</title></rect>
+<text x="101" y="15" font-size="3" text-anchor="middle">Dice #3</text><rect x="113" y="5" width="18" height="18" fill="#d3e4d8" stroke="#243744" stroke-width="0.3"><title>Dice #4: 18 × 18 mm</title></rect>
+<text x="122" y="15" font-size="3" text-anchor="middle">Dice #4</text><rect x="134" y="5" width="18" height="18" fill="#d3e4d8" stroke="#243744" stroke-width="0.3"><title>Dice #5: 18 × 18 mm</title></rect>
+<text x="143" y="15" font-size="3" text-anchor="middle">Dice #5</text><rect x="5" y="38" width="18" height="18" fill="#d3e4d8" stroke="#243744" stroke-width="0.3"><title>Dice #6: 18 × 18 mm</title></rect>
+<text x="14" y="48" font-size="3" text-anchor="middle">Dice #6</text></g>
+<line x1="10" y1="297" x2="60" y2="297" stroke="black" stroke-width="0.3"/><text x="64" y="298" font-size="3">50 mm calibration</text></svg>

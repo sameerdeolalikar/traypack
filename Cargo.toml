@@ -1,0 +1,12 @@
+[package]
+name = "traypack"
+version = "0.1.0"
+edition = "2021"
+rust-version = "1.74"
+authors = ["Sameer Deolalikar"]
+description = "Plan rectangular board-game component layouts and export physical SVG diagrams."
+license = "MIT"
+repository = "https://github.com/sameerdeolalikar/traypack"
+readme = "README.md"
+
+[dependencies]
